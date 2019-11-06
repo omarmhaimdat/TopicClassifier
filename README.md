@@ -12,6 +12,10 @@
 6. Conclusion
 
 
+I've wrote a full medium tutorial:
+
+**[Medium Article](https://heartbeat.fritz.ai/easy-topic-classifier-on-ios-with-apples-natural-language-framework-f9825143ecdb)**
+
 ![Final Results](final-result.png)
 
 <!--### Full article 
